@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Vue.JS, TS, JS, React, CSS, Vuetify
 - 🌱 I’m currently learning React
-- 💬 Ask me about Vue.JS
+- 💬 Ask me about Vue.JS, TS
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mertkug/), [Mail](mailto:mert.kug@outlook.com)
 - 😄 Pronouns: He/Him
